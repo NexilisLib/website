@@ -1,0 +1,21 @@
+digraph "nexilis::client::ClientAPI::readMessage"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="nexilis::client::ClientAPI\l::readMessage",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Read incoming message to client."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="nexilis::Json::convertToJSON",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d7/de9/classnexilis_1_1Json.html#a9cdb25e199bb08d5cfeeb2e790edb228",tooltip="Convert nx_data to boost::json::object."];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="nexilis::Util::convertTo\lString",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$dd/de4/classnexilis_1_1Util.html#a62d9441f50a65ef0cd3c2040be81d746",tooltip="Convert nx_data to string."];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="nexilis::Util::debugUint8\lVector",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$dd/de4/classnexilis_1_1Util.html#a6ae83d47990c0b249e692f5efe19a1a3",tooltip=" "];
+  Node4 -> Node5 [id="edge4_Node000004_Node000005",color="steelblue1",style="solid",tooltip=" "];
+  Node5 [id="Node000005",label="nexilis::Log::debug",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$dc/dbc/classnexilis_1_1Log.html#a8818a693340eed14a9110c9988eac982",tooltip="All the overloaded printing functions."];
+  Node1 -> Node6 [id="edge5_Node000001_Node000006",color="steelblue1",style="solid",tooltip=" "];
+  Node6 [id="Node000006",label="nexilis::Log::error",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$dc/dbc/classnexilis_1_1Log.html#a49959aac4210e93d1ccd1977e08dba80",tooltip=" "];
+  Node1 -> Node7 [id="edge6_Node000001_Node000007",color="steelblue1",style="solid",tooltip=" "];
+  Node7 [id="Node000007",label="nexilis::Log::warning",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$dc/dbc/classnexilis_1_1Log.html#a191e4c013bad219e746e8e56682d65e1",tooltip=" "];
+}

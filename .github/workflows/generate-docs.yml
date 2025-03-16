@@ -1,0 +1,40 @@
+name: Generate Documentation
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  generate-docs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout public repo
+        uses: actions/checkout@v3
+        with:
+          submodules: 'recursive'
+
+      - name: Set up Doxygen
+        run: sudo apt-get install -y doxygen graphviz
+
+      - name: Generate documentation
+        run: |
+          cd nexilis/nexilis
+          doxygen Doxyfile
+
+      - name: Move documentation to /docs
+        run: |
+          mkdir -p docs
+          cp -r nexilis/nexilis/docs/html/* docs/
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add docs
+          git commit -m "Automated generated nexilis documentation update"
+          git push

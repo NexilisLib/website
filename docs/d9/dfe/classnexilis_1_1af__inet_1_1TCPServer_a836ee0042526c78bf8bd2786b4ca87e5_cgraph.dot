@@ -1,0 +1,13 @@
+digraph "nexilis::af_inet::TCPServer::operator="
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="nexilis::af_inet::TCPServer\l::operator=",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Deleted copy assignment operator."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="nexilis::af_inet::TCPServer\l::TCPServer",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d9/dfe/classnexilis_1_1af__inet_1_1TCPServer.html#a056c40c492c931fe03a973f7b00e257f",tooltip="Constructor."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="nexilis::Log::critical",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$dc/dbc/classnexilis_1_1Log.html#a5223d303f4e8522bfc3378e8d8e00ff2",tooltip=" "];
+}

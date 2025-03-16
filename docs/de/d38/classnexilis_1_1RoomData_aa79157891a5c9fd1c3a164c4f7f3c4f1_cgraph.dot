@@ -1,0 +1,11 @@
+digraph "nexilis::RoomData::operator="
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="nexilis::RoomData::\loperator=",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Copy assignment operator."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="nexilis::RoomData::\lRoomData",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$de/d38/classnexilis_1_1RoomData.html#a4e8c4506ff71d0593b0fbbf79c3c0e4b",tooltip=" "];
+}

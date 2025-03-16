@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['waituntilboosttcpready_0',['waitUntilBoostTCPReady',['../d5/da0/classnexilis_1_1client_1_1ClientAPI.html#a06ff19320eb6c2730a633632681526fd',1,'nexilis::client::ClientAPI']]],
+  ['waituntilboostudpready_1',['waitUntilBoostUDPReady',['../d5/da0/classnexilis_1_1client_1_1ClientAPI.html#a61d2241ecf9a09c30ed3dc6296bba237',1,'nexilis::client::ClientAPI']]],
+  ['waituntilinettcpready_2',['waitUntilInetTCPReady',['../d5/da0/classnexilis_1_1client_1_1ClientAPI.html#aef58620c267d5289d4bac61a45473e04',1,'nexilis::client::ClientAPI']]],
+  ['waituntilinetudpready_3',['waitUntilInetUDPReady',['../d5/da0/classnexilis_1_1client_1_1ClientAPI.html#a0e2d5869a2928781d0403ecef064787b',1,'nexilis::client::ClientAPI']]],
+  ['waituntilroomscreated_4',['waitUntilRoomsCreated',['../d5/da0/classnexilis_1_1client_1_1ClientAPI.html#ad060c209b03d7660b2bdcc9dfa1b3fa1',1,'nexilis::client::ClientAPI']]],
+  ['waituntilunixdgramready_5',['waitUntilUnixDgramReady',['../d5/da0/classnexilis_1_1client_1_1ClientAPI.html#a528794b5d8aadca2cb1c196948e76b27',1,'nexilis::client::ClientAPI']]],
+  ['waituntilunixstreamready_6',['waitUntilUnixStreamReady',['../d5/da0/classnexilis_1_1client_1_1ClientAPI.html#a7ed744f06b2070ebd3e0e69206cf9d55',1,'nexilis::client::ClientAPI']]],
+  ['warning_7',['WARNING',['../db/d61/namespacenexilis_1_1logger.html#a33a82661cf21f69c5b2aa5b1dee51615a059e9861e0400dfbe05c98a841f3f96b',1,'nexilis::logger']]],
+  ['warning_8',['warning',['../dc/dbc/classnexilis_1_1Log.html#a191e4c013bad219e746e8e56682d65e1',1,'nexilis::Log::warning()'],['../da/d34/classnexilis_1_1Loggable.html#ad35547b122e597a73102610000f8e330',1,'nexilis::Loggable::warning()'],['../db/d91/classnexilis_1_1logger_1_1Logger.html#a68409cb1a072641188aa5b1053c81fbc',1,'nexilis::logger::Logger::warning()']]],
+  ['warningextra_9',['warningExtra',['../da/d34/classnexilis_1_1Loggable.html#a015da68407c2944980201c6ef3779e08',1,'nexilis::Loggable']]],
+  ['websocket_10',['Websocket',['../d5/dda/classnexilis_1_1Websocket.html',1,'nexilis::Websocket'],['../d5/dda/classnexilis_1_1Websocket.html#aeb35bbf1279976ee33a969949970c2d3',1,'nexilis::Websocket::Websocket()']]],
+  ['websocket_2ecc_11',['websocket.cc',['../de/d97/websocket_8cc.html',1,'']]],
+  ['websocket_2ehh_12',['websocket.hh',['../d4/d7f/websocket_8hh.html',1,'']]],
+  ['websocket_5fdebug_13',['WEBSOCKET_DEBUG',['../d4/d7f/websocket_8hh.html#a8051ccbdf3e34be0ce07a9097bcf33a3',1,'websocket.hh']]],
+  ['websocket_5fmacros_2ehh_14',['websocket_macros.hh',['../d9/dda/websocket__macros_8hh.html',1,'']]],
+  ['whitelisted_15',['whiteListed',['../d6/d1f/classnexilis_1_1server_1_1Settings.html#ad1659993b3e84b3011fdd6d4b91dc29da9b7da37802d2b0395b422a70a20ed178',1,'nexilis::server::Settings']]],
+  ['wpp_5fconnection_16',['wpp_connection',['../d8/d34/namespacenexilis.html#a01127dcda2b4b72c9f1f5dfeb124c9de',1,'nexilis']]],
+  ['wpp_5fmessage_17',['wpp_message',['../d8/d34/namespacenexilis.html#a4023ce9774707be9f2fa83b655ecd2aa',1,'nexilis']]],
+  ['wpp_5fwebsocket_18',['wpp_websocket',['../d8/d34/namespacenexilis.html#aa06b603066d21350fc1776cc507b7262',1,'nexilis']]]
+];

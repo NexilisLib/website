@@ -1,0 +1,28 @@
+var classnexilis_1_1client_1_1ClientAPI_1_1ServerData =
+[
+    [ "ServerData", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a1758b61d8d560b1a2b468b8fe5247dda", null ],
+    [ "ServerData", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a0fba2dfed0953a73b736df8837861208", null ],
+    [ "ServerData", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a585ad1b447531baf8c8aee84928ed772", null ],
+    [ "getBoostTCPServerAddress", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#ad5df7bbf1ebdb4797d92b0870f035c74", null ],
+    [ "getBoostTCPServerPort", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#ae4b47c3dbd1d5df51762fdd70a221d35", null ],
+    [ "getBoostUDPServerAddress", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#afde3bd712cef4cc3f757d0eebefca21f", null ],
+    [ "getBoostUDPServerPort", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#ad21634320ab288140462ed53252bff4d", null ],
+    [ "getInetTCPServerAddress", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#aeea12f91b28bcc129b427e4368d372eb", null ],
+    [ "getInetTCPServerPort", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#aac52e3f7378b062ad89352747e483223", null ],
+    [ "getInetUDPServerAddress", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#ae5476772d75a93cd8fd6c856f75bc777", null ],
+    [ "getInetUDPServerPort", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#ade89f0c15b87bc184f3f8781c8af70e9", null ],
+    [ "getPassword", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a8594efcdf2bd9ed4ae700feb0dcf2739", null ],
+    [ "getUnixDgramServerPath", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a02b6a965a19c3f759c5a953210a2b007", null ],
+    [ "getUnixStreamServerPath", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a38341b0ed5668f1b2e8d7b6d5706aadb", null ],
+    [ "getUsername", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#ac17615ccc4aa1eb34dcf5c6a190e5708", null ],
+    [ "operator=", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a6ba0ac8cfe1b69e3caee0bb5a18cbd14", null ],
+    [ "operator=", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a795678c72f96be82daa3d2ddbb3ee536", null ],
+    [ "setBoostTCP", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#abcd5a9ce97f44681bfd88e6e08c5b48e", null ],
+    [ "setBoostUDP", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a77b01d9109ffbe5099b61ef3938adbf7", null ],
+    [ "setInetTCP", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a5ba201a4282f52777c979363f9010ed7", null ],
+    [ "setInetUDP", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a4e039d1b5ce043da115458ddbddf2083", null ],
+    [ "setPassword", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a26ad52be824d145ccda099c6ac6885bd", null ],
+    [ "setUnixDgramServerPath", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a1f789bd9bd1a70622d4373f0468fc5d8", null ],
+    [ "setUnixStreamServerPath", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#a282bc16fadf1618d258418bc403d9f73", null ],
+    [ "setUserName", "d5/dce/classnexilis_1_1client_1_1ClientAPI_1_1ServerData.html#ab89d470005f003272d537358ce682aa6", null ]
+];

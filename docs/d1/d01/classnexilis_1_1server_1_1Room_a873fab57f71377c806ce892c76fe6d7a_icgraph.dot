@@ -1,0 +1,11 @@
+digraph "nexilis::server::Room::contains"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="nexilis::server::Room\l::contains",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="nexilis::server::Room\l::joinRoom",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d1/d01/classnexilis_1_1server_1_1Room.html#aca1148a1d8fb95b3c7d82ef006d23825",tooltip=" "];
+}

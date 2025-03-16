@@ -1,0 +1,13 @@
+digraph "nexilis::client::nxboost::UDPClient::UDPClient"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node1 [id="Node000001",label="nexilis::client::nxboost\l::UDPClient::UDPClient",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Deleted copy constructor."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="nexilis::client::nxboost\l::UDPClient::UDPClient",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$db/dfd/classnexilis_1_1client_1_1nxboost_1_1UDPClient.html#a8708e0fcf75912b340cbf92cd67c40c4",tooltip="Constructor."];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="nexilis::client::ClientProtocol\l::ClientProtocol",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$da/d2e/classnexilis_1_1client_1_1ClientProtocol.html#a3a5a32028e42dd0a2f3fe50b3779c3af",tooltip="Constructor."];
+}

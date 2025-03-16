@@ -1,0 +1,13 @@
+digraph "nexilis::logger::Logger::clearHandlers"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="nexilis::logger::Logger\l::clearHandlers",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip="Remove all handlers."];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="nexilis_logger_clear\l_handlers",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d0/d63/logger__c_8cc.html#a78e0bdf6fc382b286b9918e402f1484d",tooltip=" "];
+  Node1 -> Node3 [id="edge2_Node000001_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="nexilis_logger_destroy",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d0/d63/logger__c_8cc.html#adaa117337a5be231b6b7e2f4e38a8a1b",tooltip=" "];
+}

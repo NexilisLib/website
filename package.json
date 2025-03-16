@@ -1,0 +1,6 @@
+{
+  "name": "nexilis-website",
+  "version": "0.0.1",
+  "description": "Website for the Nexilis project",
+  "main": "index.html"
+}

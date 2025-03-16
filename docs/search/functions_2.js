@@ -1,0 +1,10 @@
+var searchData=
+[
+  ['baseclient_0',['BaseClient',['../dc/dcb/classnexilis_1_1BaseClient.html#a94a60e9babe94d304b7c61522c2c6fc9',1,'nexilis::BaseClient::BaseClient(uint64_t id)'],['../dc/dcb/classnexilis_1_1BaseClient.html#a347857a0fa12b02e35814af96188bc09',1,'nexilis::BaseClient::BaseClient(BaseClient &amp;&amp;other)'],['../dc/dcb/classnexilis_1_1BaseClient.html#a620c6bfd20a008f03a4cfd17506027ba',1,'nexilis::BaseClient::BaseClient(const BaseClient &amp;other)=delete']]],
+  ['basedata_1',['baseData',['../d6/dd3/classnexilis_1_1Object.html#ac72195e1d794e6de1fc63fce5911377d',1,'nexilis::Object']]],
+  ['baseroom_2',['BaseRoom',['../da/d49/classnexilis_1_1BaseRoom.html#af07e2b514f1b716c5a243389abc3f848',1,'nexilis::BaseRoom::BaseRoom(const RoomData &amp;roomData)'],['../da/d49/classnexilis_1_1BaseRoom.html#a8a87230208ea7c100be260f76b55f906',1,'nexilis::BaseRoom::BaseRoom(BaseRoom &amp;&amp;other)'],['../da/d49/classnexilis_1_1BaseRoom.html#ac125c56ad0b3e57d52af4784d682fac8',1,'nexilis::BaseRoom::BaseRoom(const BaseRoom &amp;)=delete']]],
+  ['baseudpserver_3',['BaseUDPServer',['../d2/d46/classnexilis_1_1af__inet_1_1BaseUDPServer.html#a3f23a9fb1e577696e1b5cdc8e9bbfdfc',1,'nexilis::af_inet::BaseUDPServer::BaseUDPServer(unsigned port=static_cast&lt; unsigned &gt;(Port::UDP))'],['../d2/d46/classnexilis_1_1af__inet_1_1BaseUDPServer.html#a6ee84550f60d1f6a743d0ae02cf76953',1,'nexilis::af_inet::BaseUDPServer::BaseUDPServer(BaseUDPServer &amp;&amp;other)'],['../d2/d46/classnexilis_1_1af__inet_1_1BaseUDPServer.html#a0fbef4400878855a5c420785f4f5f1ce',1,'nexilis::af_inet::BaseUDPServer::BaseUDPServer(const BaseUDPServer &amp;other)=delete']]],
+  ['boosttcpsend_4',['boostTCPSend',['../d2/d8d/group__UserBoostTCP.html#gad64b1d7881430c9dc278fcab25c7e4a6',1,'nexilis::server::User']]],
+  ['boostudpsend_5',['boostUDPSend',['../db/daa/group__UserBoostUDP.html#ga99f955fd99e8c615cf07aa5361078c3b',1,'nexilis::server::User']]],
+  ['broadcast_6',['broadcast',['../d5/d27/classnexilis_1_1client_1_1Packet_1_1Room_1_1Communicate.html#a516fe7c96d726138f333671ab2c6cd70',1,'nexilis::client::Packet::Room::Communicate']]]
+];

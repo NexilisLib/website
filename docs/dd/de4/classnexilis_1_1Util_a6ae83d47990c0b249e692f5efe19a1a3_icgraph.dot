@@ -1,0 +1,15 @@
+digraph "nexilis::Util::debugUint8Vector"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="RL";
+  Node1 [id="Node000001",label="nexilis::Util::debugUint8\lVector",height=0.2,width=0.4,color="gray40", fillcolor="grey60", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [id="edge1_Node000001_Node000002",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node2 [id="Node000002",label="nexilis::server::Command\l::read",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$da/d15/classnexilis_1_1server_1_1Command.html#a166c415a05e286bfee6f574dc0a22882",tooltip=" "];
+  Node2 -> Node3 [id="edge2_Node000002_Node000003",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node3 [id="Node000003",label="nexilis::server::Command\l::read",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$da/d15/classnexilis_1_1server_1_1Command.html#a9d63a1a946b0711d561e239da1857a0c",tooltip=" "];
+  Node1 -> Node4 [id="edge3_Node000001_Node000004",dir="back",color="steelblue1",style="solid",tooltip=" "];
+  Node4 [id="Node000004",label="nexilis::client::ClientAPI\l::readMessage",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$d5/da0/classnexilis_1_1client_1_1ClientAPI.html#a3273c34fd4b1d176cb830b4707d39353",tooltip="Read incoming message to client."];
+}

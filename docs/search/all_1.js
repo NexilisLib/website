@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['abs_0',['abs',['../d8/d85/structnexilis_1_1Vector2.html#aa48bbf599efadcca222ef8e72ab6556e',1,'nexilis::Vector2']]],
+  ['add_1',['add',['../da/de9/classnexilis_1_1server_1_1ClientStorage.html#ae45198bb021d74f4891c52e84150f21e',1,'nexilis::server::ClientStorage::add()'],['../db/d96/classnexilis_1_1server_1_1RoomStorage.html#ad2318211eae902369a22456ed5a21e0e',1,'nexilis::server::RoomStorage::add()']]],
+  ['addcallback_2',['addCallback',['../d5/da0/classnexilis_1_1client_1_1ClientAPI.html#a2727e43ea53329d975e5620df3343dea',1,'nexilis::client::ClientAPI']]],
+  ['addclient_3',['addClient',['../dc/dbd/classnexilis_1_1client_1_1ClientAPI_1_1Room.html#affbe8b49a6fbe41ca8e331092020865e',1,'nexilis::client::ClientAPI::Room']]],
+  ['addhandler_4',['addHandler',['../dc/dbc/classnexilis_1_1Log.html#ae97c0e75bf15db0867f5a21937c01c9b',1,'nexilis::Log::addHandler()'],['../db/d91/classnexilis_1_1logger_1_1Logger.html#a70f59f1ba00451a14b2e4a9dad8dca5d',1,'nexilis::logger::Logger::addHandler()']]],
+  ['addmessage_5',['addMessage',['../dc/dbd/classnexilis_1_1client_1_1ClientAPI_1_1Room.html#aa7e76268a37e54aef4fa586dbf5234b8',1,'nexilis::client::ClientAPI::Room']]],
+  ['addobject_6',['addObject',['../da/d49/classnexilis_1_1BaseRoom.html#a37941e15c19b692c6fe743ec6dd4d755',1,'nexilis::BaseRoom::addObject(Object2D &amp;&amp;object)'],['../da/d49/classnexilis_1_1BaseRoom.html#a7ccdff24d07235ca4eab4f6df73945fc',1,'nexilis::BaseRoom::addObject(Object3D &amp;&amp;object)']]],
+  ['address_7',['address',['../d1/d8f/structnexilis_1_1af__inet_1_1BaseUDPServer_1_1Message.html#af35e2d73154110b32b086fb156ae666d',1,'nexilis::af_inet::BaseUDPServer::Message']]],
+  ['af_5finet_5ftcp_5fclient_8',['AF_INET_TCP_CLIENT',['../da/d49/classnexilis_1_1Protocol.html#ab3350888112a8d2f57c0ab1549cf1c46a7f417ec8d7b33409fb44bd36cd27be16',1,'nexilis::Protocol']]],
+  ['af_5finet_5ftcp_5fserver_9',['AF_INET_TCP_SERVER',['../da/d49/classnexilis_1_1Protocol.html#ab3350888112a8d2f57c0ab1549cf1c46a84f3eb77741c3a4de29b0a6c472d1158',1,'nexilis::Protocol']]],
+  ['af_5finet_5fudp_5fclient_10',['AF_INET_UDP_CLIENT',['../da/d49/classnexilis_1_1Protocol.html#ab3350888112a8d2f57c0ab1549cf1c46ac9531494a144f378ce6bf9ab33f9cf48',1,'nexilis::Protocol']]],
+  ['af_5finet_5fudp_5fserver_11',['AF_INET_UDP_SERVER',['../da/d49/classnexilis_1_1Protocol.html#ab3350888112a8d2f57c0ab1549cf1c46a79fa71c7afc1d8b9a4dfa2de43229700',1,'nexilis::Protocol']]],
+  ['af_5funix_5fsock_5fdgram_5fclient_12',['AF_UNIX_SOCK_DGRAM_CLIENT',['../da/d49/classnexilis_1_1Protocol.html#ab3350888112a8d2f57c0ab1549cf1c46aa33aeb4a513a26406ca01f27956fbb61',1,'nexilis::Protocol']]],
+  ['af_5funix_5fsock_5fdgram_5fserver_13',['AF_UNIX_SOCK_DGRAM_SERVER',['../da/d49/classnexilis_1_1Protocol.html#ab3350888112a8d2f57c0ab1549cf1c46a8fa025c28c7f8decf72f7096258821ed',1,'nexilis::Protocol']]],
+  ['af_5funix_5fsock_5fstream_5fclient_14',['AF_UNIX_SOCK_STREAM_CLIENT',['../da/d49/classnexilis_1_1Protocol.html#ab3350888112a8d2f57c0ab1549cf1c46a76dd0a44278ee237f4d34fa784d0c0d6',1,'nexilis::Protocol']]],
+  ['af_5funix_5fsock_5fstream_5fserver_15',['AF_UNIX_SOCK_STREAM_SERVER',['../da/d49/classnexilis_1_1Protocol.html#ab3350888112a8d2f57c0ab1549cf1c46a549be1a4e30051d993973df74cee0d23',1,'nexilis::Protocol']]],
+  ['argument_16',['Argument',['../d0/de6/classnexilis_1_1CmdLineOptions_1_1Argument.html',1,'nexilis::CmdLineOptions::Argument'],['../d0/de6/classnexilis_1_1CmdLineOptions_1_1Argument.html#a4f8b99e13954160653b333deb69b1642',1,'nexilis::CmdLineOptions::Argument::Argument(const std::string &amp;name, const std::vector&lt; std::shared_ptr&lt; IValue &gt; &gt; &amp;values={})'],['../d0/de6/classnexilis_1_1CmdLineOptions_1_1Argument.html#adb7ea866afcfa550fae9f5af2f8fe755',1,'nexilis::CmdLineOptions::Argument::Argument(Argument &amp;&amp;other)'],['../d0/de6/classnexilis_1_1CmdLineOptions_1_1Argument.html#a5c4e028f6251b8d0cc1705ed4de0c9a9',1,'nexilis::CmdLineOptions::Argument::Argument(const Argument &amp;other)']]],
+  ['as_17',['as',['../d8/d85/structnexilis_1_1Vector2.html#a31cdeeebc1cfc1f7f3dfac64b4bf2c00',1,'nexilis::Vector2']]],
+  ['asobject2d_18',['asObject2D',['../de/dfb/classnexilis_1_1ObjectSerializer.html#a0a59b50d79c9172193f8d3cdaca3a1aa',1,'nexilis::ObjectSerializer']]],
+  ['asobject3d_19',['asObject3D',['../de/dfb/classnexilis_1_1ObjectSerializer.html#afbd13a05be5c9dff29f3f48a693c3917',1,'nexilis::ObjectSerializer']]],
+  ['authentication_20',['authentication',['../d8/d34/namespacenexilis.html#a8f790e76d29111011e1f71fb2b20027ba6fa691d2c07bea6ae78b7022c80e9d20',1,'nexilis']]],
+  ['authenticationmode_21',['AuthenticationMode',['../d6/d1f/classnexilis_1_1server_1_1Settings.html#ad1659993b3e84b3011fdd6d4b91dc29d',1,'nexilis::server::Settings']]]
+];

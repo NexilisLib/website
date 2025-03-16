@@ -1,0 +1,27 @@
+var classnexilis_1_1Util =
+[
+    [ "convertToByteVector", "d9/d3d/group__BytevectorConversions.html#ga30d774ea3bd69c02a63b41d3506e2acd", null ],
+    [ "convertToByteVector", "d9/d3d/group__BytevectorConversions.html#gab8e9e079460d74e0ca633aff4599726e", null ],
+    [ "convertToByteVector", "d9/d3d/group__BytevectorConversions.html#gad70ff4338251c89d3dd4f5553c30a607", null ],
+    [ "convertToByteVector", "d9/d3d/group__BytevectorConversions.html#ga38e516c60d98cb71153ded26ce2b67e5", null ],
+    [ "convertToByteVector", "d9/d3d/group__BytevectorConversions.html#ga6010231ec9336ce4ebf1924a9a164cc5", null ],
+    [ "convertToByteVector", "d9/d3d/group__BytevectorConversions.html#gae6dffb678c1fe33eeda24f8f899e6503", null ],
+    [ "convertToByteVector", "d9/d3d/group__BytevectorConversions.html#gaa778d3c1caf6bad365c421a542a59674", null ],
+    [ "convertToByteVector", "d9/d3d/group__BytevectorConversions.html#gad0effe667e4848217eb0ad8ec1d96e4d", null ],
+    [ "convertToString", "dd/de4/classnexilis_1_1Util.html#a62d9441f50a65ef0cd3c2040be81d746", null ],
+    [ "convertToType", "dd/de4/classnexilis_1_1Util.html#a6c88740ca44074ff58309b009e68fd0d", null ],
+    [ "convertToVector2", "dd/de4/classnexilis_1_1Util.html#a8c6fc50748fb3c5851a4b07c85648efc", null ],
+    [ "debugUint8Vector", "dd/de4/classnexilis_1_1Util.html#a6ae83d47990c0b249e692f5efe19a1a3", null ],
+    [ "floatFromFront", "dc/dc3/group__FrontConversions.html#ga6e4f865f720d4a1c796ee07aa0b2b75c", null ],
+    [ "getColorMessage", "dd/de4/classnexilis_1_1Util.html#af66394d496d839b3f427ac17dfc009e7", null ],
+    [ "getDateAndTime", "dd/de4/classnexilis_1_1Util.html#abf04c570a655ec4b667a45f869fdf34e", null ],
+    [ "getRandomInt", "df/d06/group__RandFunctions.html#ga48d7725a99f2dfe48f05df7f67899b39", null ],
+    [ "getRandomString", "df/d06/group__RandFunctions.html#ga69add1fd213bfb28b5ecfb656a436870", null ],
+    [ "getRandomUint64", "df/d06/group__RandFunctions.html#gacb4f385a6c9480e76c639947e185ff07", null ],
+    [ "printColorMessageToConsole", "dd/de4/classnexilis_1_1Util.html#a0eff3b0606895a6f09a41e9ef0d6de4e", null ],
+    [ "removeAmountOfBytesFromVector", "dd/de4/classnexilis_1_1Util.html#a37837fd204fbf43eaacd572d621da92e", null ],
+    [ "uint16ToUint8Pair", "dd/de4/classnexilis_1_1Util.html#ad3ca46009ebd9759e52827a3992146f8", null ],
+    [ "uint64FromFront", "dc/dc3/group__FrontConversions.html#gaa69ac5b84ac2f72561afb8cc9d391072", null ],
+    [ "uint8PairToUint16", "dd/de4/classnexilis_1_1Util.html#a5d57246b93579061a93f1fea725a9e94", null ],
+    [ "vector2fFromFront", "dc/dc3/group__FrontConversions.html#ga8d1b1a673789c515f56504d33f4b7ba6", null ]
+];
