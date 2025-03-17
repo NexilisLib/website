@@ -5,20 +5,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nexilis</title>
     <link rel="stylesheet" href="styles/styles.css">
+    <script src="scripts/load_nav.js"></script>
 </head>
 <body>
     <header>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/learn">Learn</a>
-            <a href="/docs/index.html">Doxygen docs</a>
-            <a href="/faq">FAQ</a>
-        </nav>
+        <div id="nav-placeholder"></div>
+        <script>
+            loadNav();
+        </script>
     </header>
+
     <main>
         <h1>Welcome to official Nexilis website</h1>
         <p>Check out <a href="/docs/index.html">documentation</a> for generated Doxygen documentation.</p>
     </main>
-    <script src="/scripts/include-navbar.js"></script>
 </body>
 </html>

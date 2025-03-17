@@ -8,4 +8,4 @@ This is example text
 
 ### This is a smallest title
 
-This is an example link [link](https://google.com). This is another paragraph.
+This is an example link [link](https://www.youtube.com/watch?v=dQw4w9WgXcQ). This is another paragraph.

@@ -18,17 +18,20 @@ def convert_markdown_to_html(markdown_file, html_file):
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Generated Page</title>
     <link rel="stylesheet" href="../styles/styles.css">
+    <script src="../scripts/nav.js"></script>
 </head>
 <body>
-    <header>
-        <!-- include-navbar.js -->
-    </header>
-    <main>
+<header>
+    <div id="nav-placeholder"></div>
+    <script>
+        loadNav();
+    </script>
+</header>
+<main>
 
 {html_content}
 
     </main>
-    <script src="../scripts/include-navbar.js"></script>
 </body>
 </html>
         """
